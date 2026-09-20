@@ -11,7 +11,7 @@ Na página que abrir, procure a seção **Assets** (Arquivos). Ela contém:
 | Para usar no | Arquivo | Finalidade |
 | --- | --- | --- |
 | Windows | `MVENT.Analise.exe` | Programa MVENT Análise |
-| Windows | `Instrucoes.para.instalar.o.software.do.Analisador.de.Ventilador.Pulmonar.da.Elomed.docx` | Instruções de instalação |
+| Windows | `Instrucoes.para.instalar.o.software.do.Analisador.de.Ventilador.Pulmonar.da.Elomed.pdf` | Instruções de instalação |
 | Android | `Mvent_Elomed.apk` | Aplicativo de campo |
 | Documentação | `Manual_Mvent_Analise.pdf` | Manual do programa para Windows |
 | Documentação | `Manual_Mvent_App_Campo.pdf` | Manual do aplicativo de campo |
